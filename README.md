@@ -1,2 +1,8 @@
-# bersv.github.io
-Data Scientist
+# Data Scientist
+
+### Education
+
+
+### Work expirience
+
+### Projects
