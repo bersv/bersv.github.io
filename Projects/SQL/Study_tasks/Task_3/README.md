@@ -53,4 +53,4 @@ __Задание 7.__ Удалите таблицу film_new.
 
 
 ### Решение
-[Файл с запросами](/Projects/SQL/Study_task_3/Solution.sql)
+[Файл с запросами](/Projects/SQL/Study_tasks/Task_3/Solution.sql)
