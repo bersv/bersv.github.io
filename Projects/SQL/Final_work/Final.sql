@@ -188,12 +188,3 @@ left join (
 	group by tf.flight_id) u on cte1.flight_id=u.flight_id 
 order by price_per_km
 limit 1
-
-	
-	
-	
-	
-
-
-
-
