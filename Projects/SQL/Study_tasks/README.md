@@ -14,6 +14,7 @@
 - address — содержит данные об адресах сотрудников и клиентов.
 - city — содержит названия городов.
 - country — содержит названия стран.
-[!](/Projects/SQL/Study_tasks/dvd_rental_er_diagram.png)
+  
+![DVD-Rental ER Diagram](/Projects/SQL/Study_tasks/dvd_rental_er_diagram.png)
 
 На схеме звездочка (*) обозначает первичный ключ.
