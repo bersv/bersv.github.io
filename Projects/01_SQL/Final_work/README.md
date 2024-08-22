@@ -21,4 +21,4 @@
 
 
 ### Решение
-[Файл с запросами](/Projects/SQL/Final_work/Final.sql)
+[Файл с запросами](/Projects/01_SQL/Final_work/Final.sql)
