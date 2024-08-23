@@ -1,5 +1,5 @@
 title: Berezovsky Stanislav
 # logo:
-description: Data Science
-# show_downloads: true
+# description: Data Science
+show_downloads: true
 theme: jekyll-theme-minimal
