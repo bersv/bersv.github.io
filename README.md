@@ -12,6 +12,6 @@
 
 ### Work expirience
 
-### [Projects](/Projects)
+### [Projects](https://github.com/bersv/bersv.github.io/tree/main/Projects)
 
 
