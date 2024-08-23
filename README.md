@@ -8,6 +8,8 @@
   </a>
 </div>
 
+---
+
 ### Education
 
 ### Work expirience
