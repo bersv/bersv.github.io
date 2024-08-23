@@ -14,4 +14,4 @@
 
 ### [Projects](https://github.com/bersv/bersv.github.io/tree/main/Projects)
 
-
+### [Certificates](https://github.com/bersv/bersv.github.io/tree/main/Certificates)
