@@ -6,7 +6,7 @@ __Этапы работы:__
 1. Сгенерируйте данные с помощью кода:  
    ```python
    from sklearn.datasets import make_classification
-   x_data_generated, y_data_generated = make_classification(scale=1)`
+   x_data_generated, y_data_generated = make_classification(scale=1)
    ```
 2. Постройте модель логистической регрессии и оцените среднюю точность. Для этого используйте следующий код:
    ```python
