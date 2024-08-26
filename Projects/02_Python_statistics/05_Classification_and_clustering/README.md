@@ -11,4 +11,4 @@
 7. Подберите оптимальное число кластеров для алгоритма kmeans и визуализируйте полученную кластеризацию;
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/02_Python_statistics/01_Basic_of_statistics/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/02_Python_statistics/05_Classification_and_clustering/Solution.ipynb)
