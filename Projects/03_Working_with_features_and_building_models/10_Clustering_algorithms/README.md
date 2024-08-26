@@ -13,7 +13,7 @@ __Этапы работы:__
       b, g, r = cv2.split(image) # по умолчанию cv2 отдаёт цвета в порядке BGR вместо RGB
       new_image = cv2.merge([r, g, b])
       plt.figure(figsize=(7, 5))
-      plt.axis(‘off’)
+      plt.axis('off')
       plt.imshow(new_image)
       plt.title(title)
       plt.show()
