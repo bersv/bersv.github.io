@@ -7,4 +7,3 @@
 
 ### Решение
 [Файл с кодом и пояснениями](/Projects/06_Recommendation_systems/02_Collaborative_filtering/Solution.ipynb)
-
