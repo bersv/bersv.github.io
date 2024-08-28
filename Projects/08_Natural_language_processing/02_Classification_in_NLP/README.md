@@ -1,10 +1,8 @@
 # Домашнее задание по теме "Классификация в NLP"
 
 ### Задание
-1. Использовать датасет [MovieLens](https://grouplens.org/datasets/movielens/latest/).
-2. Выбрать один из подходов к гибридным системам.
-3. Написать свою.
+Выполнить классификацию для датасета [Fakenews](Projects/08_Natural_language_processing/02_Classification_in_NLP/constraint_train.csv). Необходимо тремя разными способами получить на задаче классификации значение f1 выше 0.91 для методов на sklearn и выше 0.52 для методов на pytorch.
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/06_Recommendation_systems/02_Collaborative_filtering/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/08_Natural_language_processing/02_Classification_in_NLP/Solution.ipynb)
 
