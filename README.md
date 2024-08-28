@@ -15,9 +15,9 @@
 
 ---
 
-### Education
+<!--### Education
 
-### Work expirience
+### Work expirience-->
 
 ### [Projects](https://github.com/bersv/bersv.github.io/tree/main/Projects)
 
