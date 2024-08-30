@@ -7,4 +7,4 @@
 4. Выберите и обоснуйте лучший подход.
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/10_Test_task/Task_2/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/10_Test_task/Task_3/Solution.ipynb)
