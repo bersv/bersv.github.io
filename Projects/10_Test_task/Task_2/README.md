@@ -5,4 +5,4 @@
 Синтетические данные по среднему чеку до и после включения рекомендательной системы необходимо сгенерировать самостоятельно.
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/08_Natural_language_processing/01_Thematic_modeling/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/10_Test_task/Task_2/Solution.ipynb)
