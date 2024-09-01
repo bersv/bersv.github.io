@@ -16,7 +16,7 @@
 ---
 <!--
 ### Education
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bersv) 
 ### Work expirience-->
 
 ### [Projects](https://github.com/bersv/bersv.github.io/tree/main/Projects)
@@ -37,7 +37,7 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bersv)  
+ 
 ### Skills
 
 
