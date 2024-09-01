@@ -15,7 +15,7 @@
 
 ---
 
-<!--### Education
+### Education
 
 ### Work expirience-->
 
