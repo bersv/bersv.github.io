@@ -37,10 +37,14 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)
 
-
-<a href="http://berezovsky.stanislav@gmail.com">
+<p>
+  <a href="http://berezovsky.stanislav@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
-</a>
+  </a>
+  <a href="https://t.me/bonkers_laziest_savvy">
+    <img src="https://cdn.simpleicons.org/telegram/##26A5E4?viewbox=auto" width="20" height="20" alt="Gmail">
+  </a>
+</p>
 
 
 <img height="20" src="https://cdn.simpleicons.org/gmail/#EA4335?viewbox=auto" />
