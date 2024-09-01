@@ -37,7 +37,13 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)
 
- 
+
+<a href="http://berezovsky.stanislav@gmail.com">
+    <img src="" width="30" height="30" alt="Gmail">
+</a>
+
+
+
 ### Skills
 
 
