@@ -43,6 +43,7 @@
 </a>
 
 
+<img height="20" src="https://cdn.simpleicons.org/gmail" />
 
 ### Skills
 
