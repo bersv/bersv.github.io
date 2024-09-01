@@ -13,4 +13,4 @@
    - Описанию хода работы.
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/08_Natural_language_processing/01_Thematic_modeling/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/10_Test_task/Task_1/Solution.ipynb)
