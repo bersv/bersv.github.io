@@ -39,7 +39,7 @@
 
 
 <a href="http://berezovsky.stanislav@gmail.com">
-    <img src="Images/gmail.svg/#EA4335" width="30" height="30" alt="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
 </a>
 
 
