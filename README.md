@@ -65,7 +65,7 @@
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
 
-<img src="Certificates/01_SQL.png" width="195" height="130" alt="Gmail">
+<img src="Certificates/01_SQL.png" width="225" height="150" alt="Gmail">
 
 
 ### Skills
