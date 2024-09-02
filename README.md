@@ -16,14 +16,14 @@
 -->
 
 <p>
-  <a href="https://t.me/bonkers_laziest_savvy">
-    <img src="https://cdn.simpleicons.org/telegram/##26A5E4?viewbox=auto" width="20" height="20" alt="Telegram">
-  </a>
   <a href="http://berezovsky.stanislav@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
   </a>
+  <a href="https://t.me/bonkers_laziest_savvy">
+    <img src="https://cdn.simpleicons.org/telegram/##26A5E4?viewbox=auto" width="20" height="20" alt="Telegram">
+  </a>
   <a href="https://hh.ru/">
-    <img src="https://hhru.github.io/api/logos/min-hh-red.png" width="20" height="20" alt="HH">
+    <img src="https://hhru.github.io/api/logos/min-hh-red.png/#EA4335" width="20" height="20" alt="HH">
   </a>
 </p>
 
