@@ -66,7 +66,7 @@
 
 
 <img src="Certificates/01_SQL.png" width="225" height="150" alt="Gmail">
-
+<img src="Certificates/02_Python_basics.png" width="225" height="150" alt="Gmail">
 
 ### Skills
 
