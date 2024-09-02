@@ -64,9 +64,11 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
-
-<img src="Certificates/01_SQL.png" width="225" height="150" alt="Gmail">
-<img src="Certificates/02_Python_basics.png" width="225" height="150" alt="Gmail">
+<p>
+  <img src="Certificates/01_SQL.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/02_Python_basics.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
+</p>
 
 ### Skills
 
