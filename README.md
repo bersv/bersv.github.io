@@ -69,17 +69,15 @@
   <img src="Certificates/02_Python_basics.png" width="225" height="150" alt="Gmail">
   <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
   <img src="Certificates/04_Python_statistics.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/05_Mathematics_for_data_science.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/06_Working_with_features_and_building_models.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/07_Basics_of_neural_networks.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/08_Time_series.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/09_Recommendation_systems.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/10_Computer_vision.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/11_Natural_language_processing.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/12_Data_project_management.png" width="225" height="150" alt="Gmail">
+  <img src="Certificates/13_Data_scientist.png" width="225" height="150" alt="Gmail">
 </p>
 
 ### Skills
