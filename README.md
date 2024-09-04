@@ -68,7 +68,7 @@
 <title>Image Hover Effect</title>
 <style>
   .hover-zoom img {
-    transition: transform 0.2s; /* Анимация плавного увеличения */
+    transition: transform 0.5s; /* Анимация плавного увеличения */
   }
   .hover-zoom img:hover {
     transform: scale(4); /* Увеличение в 2 раза */
