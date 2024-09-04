@@ -95,15 +95,7 @@
 </html>
 
 
-<p>
-  <a href="Certificates/01_SQL.pdf">
-    <img src="Certificates/01_SQL.png" width="135" height="90" alt="SQL" class="zoom">
-  </a>
-  <img src="Certificates/02_Python_basics.png" width="135" height="90">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="135" height="90">
-  <img src="Certificates/04_Python_statistics.png" width="135" height="90">
 
-</p>
 
 ### Skills
 
@@ -135,6 +127,12 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p>
+  <a href="Certificates/01_SQL.pdf">
+    <img src="Certificates/01_SQL.png" width="135" height="90" alt="SQL" class="zoom">
+  </a>
+</p>
 -->
 
 <!--
