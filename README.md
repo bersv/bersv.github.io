@@ -77,9 +77,10 @@
 </head>
 <body>
   <div class="hover-zoom">
-    <img src="Certificates/02_Python_basics.png" width="135" height="90">
-    <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="135" height="90">
-    <img src="Certificates/04_Python_statistics.png" width="135" height="90">
+    <img src="Certificates/01_SQL.png" width="90" height="60">
+    <img src="Certificates/02_Python_basics.png"  width="90" height="60">
+    <img src="Certificates/03_Python_libraries_for_data_analysis.png"  width="90" height="60">
+    <img src="Certificates/04_Python_statistics.png"  width="90" height="60">
   </div>
 </body>
 </html>
