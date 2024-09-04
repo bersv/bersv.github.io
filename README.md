@@ -120,6 +120,8 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
+---
+
 ### Skills
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
