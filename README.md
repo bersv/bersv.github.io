@@ -34,16 +34,16 @@
 ### Work expirience-->
 
 ### Projects
-1. [SQL]
-2. [Python statistics]
-3. [Working with features and building models]
-4. [Basics of neural networks]
-5. [Time series]
-6. [Recommendation systems]
-7. [Computer vision]
-8. [Natural language processing]
-9. [Graduate work]
-10. [Test tasks]
+1. [SQL](Projects/01_SQL)
+2. [Python statistics](Projects/02_Python_statistics)
+3. [Working with features and building models](Projects/03_Working_with_features_and_building_models)
+4. [Basics of neural networks](Projects/04_Basics_of_neural_networks/Introduction_to_Convolutional_NNs)
+5. [Time series](Projects/05_Time_series)
+6. [Recommendation systems](Projects/06_Recommendation_systems)
+7. [Computer vision](Projects/07_Computer_vision)
+8. [Natural language processing](Projects/08_Natural_language_processing)
+9. [Graduate work](Projects/09_Graduate_work)
+10. [Test tasks](Projects/10_Test_task)
 
 ### Certificates
 <!--
