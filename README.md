@@ -71,7 +71,7 @@
     transition: transform 0.5s; /* Анимация плавного увеличения */
   }
   .hover-zoom img:hover {
-    transform: scale(6); /* Увеличение в 2 раза */
+    transform: scale(5); /* Увеличение в 2 раза */
   }
 </style>
 </head>
