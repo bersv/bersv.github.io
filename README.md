@@ -35,18 +35,15 @@
 
 ### Projects
 1. [SQL]
-2. [Python basics]
-3. [Python libraries for data analysis]
-4. [Python statistics]
-5. [Mathematics for data science]
-6. [Working with features and building models]
-7. [Basics of neural networks]
-8. [Time series]
-9. [Recommendation systems]
-10. [Computer vision]
-11. [Natural language processing]
-12. [Data project management]
-13. [Data scientist]
+2. [Python statistics]
+3. [Working with features and building models]
+4. [Basics of neural networks]
+5. [Time series]
+6. [Recommendation systems]
+7. [Computer vision]
+8. [Natural language processing]
+9. [Graduate work]
+10. [Test tasks]
 
 ### Certificates
 <!--
