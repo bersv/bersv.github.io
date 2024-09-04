@@ -46,21 +46,6 @@
 10. [Test tasks](Projects/10_Test_task)
 
 ### Certificates
-<!--
-1. [SQL](Certificates/01_SQL.pdf)
-2. [Python basics](Certificates/02_Python_basics.pdf)
-3. [Python libraries for data analysis](Certificates/03_Python_libraries_for_data_analysis.pdf)
-4. [Python statistics](Certificates/04_Python_statistics.pdf)
-5. [Mathematics for data science](Certificates/05_Mathematics_for_data_science.pdf)
-6. [Working with features and building models](Certificates/06_Working_with_features_and_building_models.pdf)
-7. [Basics of neural networks](Certificates/07_Basics_of_neural_networks.pdf)
-8. [Time series](Certificates/08_Time_series.pdf)
-9. [Recommendation systems](Certificates/09_Recommendation_systems.pdf)
-10. [Computer vision](Certificates/10_Computer_vision.pdf)
-11. [Natural language processing](Certificates/11_Natural_language_processing.pdf)
-12. [Data project management](Certificates/12_Data_project_management.pdf)
-13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
-
 
 <html lang="en">
 <head>
@@ -120,6 +105,20 @@
 </body>
 </html>
 
+<!--
+1. [SQL](Certificates/01_SQL.pdf)
+2. [Python basics](Certificates/02_Python_basics.pdf)
+3. [Python libraries for data analysis](Certificates/03_Python_libraries_for_data_analysis.pdf)
+4. [Python statistics](Certificates/04_Python_statistics.pdf)
+5. [Mathematics for data science](Certificates/05_Mathematics_for_data_science.pdf)
+6. [Working with features and building models](Certificates/06_Working_with_features_and_building_models.pdf)
+7. [Basics of neural networks](Certificates/07_Basics_of_neural_networks.pdf)
+8. [Time series](Certificates/08_Time_series.pdf)
+9. [Recommendation systems](Certificates/09_Recommendation_systems.pdf)
+10. [Computer vision](Certificates/10_Computer_vision.pdf)
+11. [Natural language processing](Certificates/11_Natural_language_processing.pdf)
+12. [Data project management](Certificates/12_Data_project_management.pdf)
+13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
 ### Skills
 
