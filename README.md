@@ -77,8 +77,12 @@
 </head>
 <body>
   <div class="hover-zoom">
-    <img src="Certificates/01_SQL.png" width="90" height="60">
-    <img src="Certificates/02_Python_basics.png" width="90" height="60">
+    <a href="Certificates/01_SQL.pdf">
+      <img src="Certificates/01_SQL.png" width="90" height="60">
+    </a>
+    <a href="Certificates/02_Python_basics.pdf">
+      <img src="Certificates/02_Python_basics.png" width="90" height="60">
+    </a>
     <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="90" height="60">
     <img src="Certificates/04_Python_statistics.png" width="90" height="60">
     <img src="Certificates/05_Mathematics_for_data_science.png" width="90" height="60">
@@ -130,7 +134,7 @@
 
 <p>
   <a href="Certificates/01_SQL.pdf">
-    <img src="Certificates/01_SQL.png" width="135" height="90" alt="SQL" class="zoom">
+    <img src="Certificates/01_SQL.png" width="135" height="90" alt="SQL">
   </a>
 </p>
 -->
