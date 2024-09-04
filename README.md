@@ -43,7 +43,7 @@
 7. [Computer vision](Projects/07_Computer_vision)
 8. [Natural language processing](Projects/08_Natural_language_processing)
 9. [Graduate work](Projects/09_Graduate_work)
-10. [Test tasks](Projects/10_Test_task)
+10. [Test tasks](Projects/10_Test_tasks)
 
 ### Certificates
 
