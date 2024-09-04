@@ -60,7 +60,30 @@
 11. [Natural language processing](Certificates/11_Natural_language_processing.pdf)
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
-<link rel="stylesheet" href="styles.css">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Image Hover Effect</title>
+<style>
+  .hover-zoom img {
+    transition: transform 0.2s; /* Анимация плавного увеличения */
+  }
+  .hover-zoom img:hover {
+    transform: scale(2); /* Увеличение в 2 раза */
+  }
+</style>
+</head>
+<body>
+  <div class="hover-zoom">
+    <img src="Certificates/02_Python_basics.png" width="135" height="90">
+    <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="135" height="90">
+    <img src="Certificates/04_Python_statistics.png" width="135" height="90">
+  </div>
+</body>
+</html>
+
 
 <p>
   <a href="Certificates/01_SQL.pdf">
