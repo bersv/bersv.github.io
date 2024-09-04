@@ -65,19 +65,19 @@
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
 <p>
-  <img src="Certificates/01_SQL.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/02_Python_basics.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/04_Python_statistics.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/05_Mathematics_for_data_science.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/06_Working_with_features_and_building_models.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/07_Basics_of_neural_networks.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/08_Time_series.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/09_Recommendation_systems.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/10_Computer_vision.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/11_Natural_language_processing.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/12_Data_project_management.png" width="135" height="90" alt="Gmail">
-  <img src="Certificates/13_Data_scientist.png" width="135" height="90" alt="Gmail">
+  <img src="Certificates/01_SQL.png" width="135" height="90">
+  <img src="Certificates/02_Python_basics.png" width="135" height="90">
+  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="135" height="90">
+  <img src="Certificates/04_Python_statistics.png" width="135" height="90">
+  <img src="Certificates/05_Mathematics_for_data_science.png" width="135" height="90">
+  <img src="Certificates/06_Working_with_features_and_building_models.png" width="135" height="90">
+  <img src="Certificates/07_Basics_of_neural_networks.png" width="135" height="90">
+  <img src="Certificates/08_Time_series.png" width="135" height="90">
+  <img src="Certificates/09_Recommendation_systems.png" width="135" height="90">
+  <img src="Certificates/10_Computer_vision.png" width="135" height="90">
+  <img src="Certificates/11_Natural_language_processing.png" width="135" height="90">
+  <img src="Certificates/12_Data_project_management.png" width="135" height="90">
+  <img src="Certificates/13_Data_scientist.png" width="135" height="90">
 </p>
 
 ### Skills
