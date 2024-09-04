@@ -60,12 +60,11 @@
 11. [Natural language processing](Certificates/11_Natural_language_processing.pdf)
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
-
-https://github.com/bersv/bersv.github.io/blob/main/Certificates/01_SQL.pdf
+<link rel="stylesheet" href="styles.css">
 
 <p>
   <a href="Certificates/01_SQL.pdf">
-    <img src="Certificates/01_SQL.png" width="135" height="90" alt="SQL">
+    <img src="Certificates/01_SQL.png" width="135" height="90" alt="SQL" class="zoom">
   </a>
   <img src="Certificates/02_Python_basics.png" width="135" height="90">
   <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="135" height="90">
