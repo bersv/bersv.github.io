@@ -61,7 +61,7 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
