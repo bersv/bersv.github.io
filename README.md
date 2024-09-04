@@ -15,6 +15,8 @@
 </div>
 -->
 
+<link rel="stylesheet" href="styles.css">
+
 <p>
   <a href="http://berezovsky.stanislav@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
