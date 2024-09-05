@@ -32,7 +32,8 @@
 ### Education
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bersv) 
 ### Work expirience-->
-
+1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL)
+2. 
 ### Projects
 1. [SQL](/Projects/01_SQL)
 2. [Python statistics](/Projects/02_Python_statistics)
