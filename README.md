@@ -32,19 +32,18 @@
 ### Education
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bersv) 
 ### Work expirience-->
-1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL)
-2. 
+
 ### Projects
-1. [SQL](/Projects/01_SQL)
-2. [Python statistics](/Projects/02_Python_statistics)
-3. [Working with features and building models](/Projects/03_Working_with_features_and_building_models)
-4. [Basics of neural networks](/Projects/04_Basics_of_neural_networks/Introduction_to_Convolutional_NNs)
-5. [Time series](/Projects/05_Time_series)
-6. [Recommendation systems](/Projects/06_Recommendation_systems)
-7. [Computer vision](/Projects/07_Computer_vision)
-8. [Natural language processing](/Projects/08_Natural_language_processing)
-9. [Graduate work](/Projects/09_Graduate_work)
-10. [Test tasks](/Projects/10_Test_tasks)
+1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL)
+2. [Python statistics](https://github.com/bersv/bersv.github.io/tree/main/Projects/02_Python_statistics)
+3. [Working with features and building models](https://github.com/bersv/bersv.github.io/tree/main/Projects/03_Working_with_features_and_building_models)
+4. [Basics of neural networks](https://github.com/bersv/bersv.github.io/tree/main/Projects/04_Basics_of_neural_networks/Introduction_to_Convolutional_NNs)
+5. [Time series](https://github.com/bersv/bersv.github.io/tree/main/Projects/05_Time_series)
+6. [Recommendation systems](https://github.com/bersv/bersv.github.io/tree/main/Projects/06_Recommendation_systems)
+7. [Computer vision](https://github.com/bersv/bersv.github.io/tree/main/Projects/07_Computer_vision)
+8. [Natural language processing](https://github.com/bersv/bersv.github.io/tree/main/Projects/08_Natural_language_processing)
+9. [Graduate work](https://github.com/bersv/bersv.github.io/tree/main/Projects/09_Graduate_work)
+10. [Test tasks](https://github.com/bersv/bersv.github.io/tree/main/Projects/10_Test_tasks)
 
 ### Certificates
 
