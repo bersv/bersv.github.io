@@ -18,7 +18,7 @@
 
 <p>
   <a href="http://berezovsky.stanislav@gmail.com">
-    <img src="Images/gmail.svg" width="20" height="20" alt="Gmail">
+    <img src="Images/gmail-color.svg" width="20" height="20" alt="Gmail">
   </a>
   <a href="https://t.me/bonkers_laziest_savvy">
     <img src="https://cdn.simpleicons.org/telegram/##26A5E4?viewbox=auto" width="20" height="20" alt="Telegram">
