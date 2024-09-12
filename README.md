@@ -34,7 +34,7 @@
 ### Work expirience-->
 
 ### Projects
-1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL)
+1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL).
 2. [Python statistics](https://github.com/bersv/bersv.github.io/tree/main/Projects/02_Python_statistics)
 3. [Working with features and building models](https://github.com/bersv/bersv.github.io/tree/main/Projects/03_Working_with_features_and_building_models)
 4. [Basics of neural networks](https://github.com/bersv/bersv.github.io/tree/main/Projects/04_Basics_of_neural_networks/Introduction_to_Convolutional_NNs)
