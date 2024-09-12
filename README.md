@@ -15,10 +15,10 @@
 </div>
 #EA4335
 -->
-
+https://simpleicons.org/?q=gmail
 <p>
   <a href="http://berezovsky.stanislav@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
+    <img src="https://simpleicons.org/?q=gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
   </a>
   <a href="https://t.me/bonkers_laziest_savvy">
     <img src="https://cdn.simpleicons.org/telegram/##26A5E4?viewbox=auto" width="20" height="20" alt="Telegram">
