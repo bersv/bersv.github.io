@@ -15,7 +15,7 @@
 </div>
 #EA4335
 -->
-https://simpleicons.org/?q=gmail
+
 <p>
   <a href="http://berezovsky.stanislav@gmail.com">
     <img src="https://simpleicons.org/?q=gmail/#EA4335?viewbox=auto" width="20" height="20" alt="Gmail">
