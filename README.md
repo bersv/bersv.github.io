@@ -1,11 +1,6 @@
 # Data Scientist
 
 #### How to reach me
-<!--
-
-#EA4335
--->
-
 <p>
   <a href="http://berezovsky.stanislav@gmail.com">
     <img src="Images/gmail-color.svg" width="20" height="20" alt="Gmail">
