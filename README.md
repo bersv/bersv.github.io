@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### How to reach me
+#### How to reachme
 <!--
 <div id="badges">
   <a href="http://berezovsky.stanislav@gmail.com">
