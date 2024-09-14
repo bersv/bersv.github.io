@@ -113,47 +113,47 @@
 12. [Data project management](Certificates/12_Data_project_management.pdf)
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
-  <div class="hover-zoom">
-    <a href="Certificates/01_SQL.pdf">
-      <img src="Certificates/01_SQL.png" width="90" height="60">
-    </a>
-    <a href="Certificates/02_Python_basics.pdf">
-      <img src="Certificates/02_Python_basics.png" width="90" height="60">
-    </a>
-    <a href="Certificates/03_Python_libraries_for_data_analysis.pdf">
-      <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="90" height="60">
-    </a>
-    <a href="Certificates/04_Python_statistics.pdf">
-      <img src="Certificates/04_Python_statistics.png" width="90" height="60">
-    </a>
-    <a href="Certificates/05_Mathematics_for_data_science.pdf">
-      <img src="Certificates/05_Mathematics_for_data_science.png" width="90" height="60">
-    </a>
-    <a href="Certificates/06_Working_with_features_and_building_models.pdf">
-      <img src="Certificates/06_Working_with_features_and_building_models.png" width="90" height="60">
-    </a>
-    <a href="Certificates/07_Basics_of_neural_networks.pdf">
-      <img src="Certificates/07_Basics_of_neural_networks.png" width="90" height="60">
-    </a>
-    <a href="Certificates/08_Time_series.pdf">
-      <img src="Certificates/08_Time_series.png" width="90" height="60">
-    </a>
-    <a href="Certificates/09_Recommendation_systems.pdf">
-      <img src="Certificates/09_Recommendation_systems.png" width="90" height="60">
-    </a>
-    <a href="Certificates/10_Computer_vision.pdf">
-      <img src="Certificates/10_Computer_vision.png" width="90" height="60">
-    </a>
-    <a href="Certificates/11_Natural_language_processing.pdf">
-      <img src="Certificates/11_Natural_language_processing.png" width="90" height="60">
-    </a>
-    <a href="Certificates/12_Data_project_management.pdf">
-      <img src="Certificates/12_Data_project_management.png" width="90" height="60">
-    </a>
-    <a href="Certificates/13_Data_scientist.pdf">
-      <img src="Certificates/13_Data_scientist.png" width="90" height="60">
-    </a>
-  </div>
+<div>
+<a href="Certificates/01_SQL.pdf">
+  <img src="Certificates/01_SQL.png" width="90" height="60">
+</a>
+<a href="Certificates/02_Python_basics.pdf">
+  <img src="Certificates/02_Python_basics.png" width="90" height="60">
+</a>
+<a href="Certificates/03_Python_libraries_for_data_analysis.pdf">
+  <img src="Certificates/03_Python_libraries_for_data_analysis.png" width="90" height="60">
+</a>
+<a href="Certificates/04_Python_statistics.pdf">
+  <img src="Certificates/04_Python_statistics.png" width="90" height="60">
+</a>
+<a href="Certificates/05_Mathematics_for_data_science.pdf">
+  <img src="Certificates/05_Mathematics_for_data_science.png" width="90" height="60">
+</a>
+<a href="Certificates/06_Working_with_features_and_building_models.pdf">
+  <img src="Certificates/06_Working_with_features_and_building_models.png" width="90" height="60">
+</a>
+<a href="Certificates/07_Basics_of_neural_networks.pdf">
+  <img src="Certificates/07_Basics_of_neural_networks.png" width="90" height="60">
+</a>
+<a href="Certificates/08_Time_series.pdf">
+  <img src="Certificates/08_Time_series.png" width="90" height="60">
+</a>
+<a href="Certificates/09_Recommendation_systems.pdf">
+  <img src="Certificates/09_Recommendation_systems.png" width="90" height="60">
+</a>
+<a href="Certificates/10_Computer_vision.pdf">
+  <img src="Certificates/10_Computer_vision.png" width="90" height="60">
+</a>
+<a href="Certificates/11_Natural_language_processing.pdf">
+  <img src="Certificates/11_Natural_language_processing.png" width="90" height="60">
+</a>
+<a href="Certificates/12_Data_project_management.pdf">
+  <img src="Certificates/12_Data_project_management.png" width="90" height="60">
+</a>
+<a href="Certificates/13_Data_scientist.pdf">
+  <img src="Certificates/13_Data_scientist.png" width="90" height="60">
+</a>
+</div>
 
 
 ---
