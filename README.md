@@ -40,6 +40,7 @@
 
 ### Certificates
 
+<!--
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -96,9 +97,8 @@
     </a>
   </div>
 </body>
-</html>
+</html>-->
 
-<!--
 1. [SQL](Certificates/01_SQL.pdf)
 2. [Python basics](Certificates/02_Python_basics.pdf)
 3. [Python libraries for data analysis](Certificates/03_Python_libraries_for_data_analysis.pdf)
@@ -111,7 +111,7 @@
 10. [Computer vision](Certificates/10_Computer_vision.pdf)
 11. [Natural language processing](Certificates/11_Natural_language_processing.pdf)
 12. [Data project management](Certificates/12_Data_project_management.pdf)
-13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
+13. [Data scientist](Certificates/13_Data_scientist.pdf)
 
 ---
 
