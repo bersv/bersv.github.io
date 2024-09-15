@@ -109,6 +109,9 @@
 13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
 
 <div>
+  <a href="Certificates/14_DS_diploma.jpg">
+    <img src="Certificates/14_DS_diploma.jpg" width="90" height="60">
+  </a>
   <a href="Certificates/01_SQL.pdf">
     <img src="Certificates/01_SQL.png" width="90" height="60">
   </a>
@@ -147,9 +150,6 @@
   </a>
   <a href="Certificates/13_Data_scientist.pdf">
     <img src="Certificates/13_Data_scientist.png" width="90" height="60">
-  </a>
-  <a href="Certificates/14_DS_diploma.jpg">
-    <img src="Certificates/14_DS_diploma.jpg" width="90" height="60">
   </a>
 </div>
 
