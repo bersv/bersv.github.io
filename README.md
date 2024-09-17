@@ -8,7 +8,7 @@
   <a href="https://t.me/bonkers_laziest_savvy">
     <img src="Images/telegram-color.svg" width="20" height="20" alt="Telegram">
   </a>
-  <a href="https://hh.ru/">
+  <a href="https://hh.ru/applicant/resumes/view?resume=571a9abfff0dbe6e190039ed1f6a65706b6573">
     <img src="Images/hh-color.png" width="20" height="20" alt="HH">
   </a>
 </p>
