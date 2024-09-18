@@ -32,7 +32,7 @@
 10. [Test tasks](https://github.com/bersv/bersv.github.io/tree/main/Projects/10_Test_tasks)
 
 ### Certificates
-<!--лнррдлнг
+<!--лнрfhgdfрдлнг
 -->
 
 <!--
