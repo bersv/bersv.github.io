@@ -2,13 +2,13 @@
 
 #### How to reach me
 <p>
-  <a href="http://berezovsky.stanislav@gmail.com">
+  <a href="http://berezovsky.stanislav@gmail.com"  title="Gmail">
     <img src="Images/gmail-color.svg" width="20" height="20" alt="Gmail">
   </a>
   <a href="https://t.me/bonkers_laziest_savvy" title="Telegram">
     <img src="Images/telegram-color.svg" width="20" height="20" alt="Telegram">
   </a>
-  <a href="https://hh.ru/applicant/resumes/view?resume=571a9abfff0dbe6e190039ed1f6a65706b6573">
+  <a href="https://hh.ru/applicant/resumes/view?resume=571a9abfff0dbe6e190039ed1f6a65706b6573" title="HH">
     <img src="Images/hh-color.png" width="20" height="20" alt="HH">
   </a>
 </p>
