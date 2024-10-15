@@ -1,4 +1,4 @@
-# Домашнее задание по теме "Базовые понятия статистики"
+# Базовые понятия статистики
 
 ### Задание
 1. Изучить представленный [набор данных](https://raw.githubusercontent.com/obulygin/pyda_homeworks/master/statistics_basics/horse_data.csv) на основе [описания его столбцов](https://raw.githubusercontent.com/obulygin/pyda_homeworks/master/statistics_basics/horse_data.names), загрузить его и оставить 8 столбцов для дальнейшего изучения: surgery?, Age, rectal temperature, pulse, respiratory rate, temperature of extremities, pain, outcome.
