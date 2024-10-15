@@ -1,4 +1,4 @@
-# Домашнее задание по теме "Базовые понятия статистики"
+# Базовые понятия статистики
 
 ### Задание
 Решить задачу классификации при помощи обучения модели логистической регрессии. Качество модели оценивается путем подсчёта метрик TPR, FPR и построения графиков ROC-кривой, Precision-Recall. Данные для обучения модели хранятся в файле [athletes.csv](Projects/03_Working_with_features_and_building_models/03_Model_accuracy_assessment_retraining_regularization/athletes.csv).
