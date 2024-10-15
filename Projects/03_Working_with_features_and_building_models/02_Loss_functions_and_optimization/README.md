@@ -1,4 +1,4 @@
-# Домашнее задание по теме "Базовые понятия статистики"
+# Базовые понятия статистики
 
 ### Задание
 1. Загрузите данные. Используйте [датасет с ирисами](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html). Его можно загрузить непосредственно из библиотеки Sklearn. В данных оставьте только 2 класса: Iris Versicolor, Iris Virginica.
