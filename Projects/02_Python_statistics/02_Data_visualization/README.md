@@ -1,4 +1,4 @@
-# Домашнее задание по теме "Визуализация данных"
+# Визуализация данных
 
 ### Задание
 1. Провести базовый EDA выбранного [набора данных](https://www.kaggle.com/datasets/travistyler/bond-girls-age-and-film-data).
