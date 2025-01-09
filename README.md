@@ -23,7 +23,7 @@
 1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL)
 2. [Python statistics](https://github.com/bersv/bersv.github.io/tree/main/Projects/02_Python_statistics)
 3. [Working with features and building models](https://github.com/bersv/bersv.github.io/tree/main/Projects/03_Working_with_features_and_building_models)
-4. [Basics of neural networks](https://github.com/bersv/bersv.github.io/tree/main/Projects/04_Basics_of_neural_networks/Introduction_to_Convolutional_NNs)
+4. [Neural networks](https://github.com/bersv/bersv.github.io/tree/main/Projects/04_Basics_of_neural_networks/Introduction_to_Convolutional_NNs)
 5. [Time series](https://github.com/bersv/bersv.github.io/tree/main/Projects/05_Time_series)
 6. [Recommendation systems](https://github.com/bersv/bersv.github.io/tree/main/Projects/06_Recommendation_systems)
 7. [Computer vision](https://github.com/bersv/bersv.github.io/tree/main/Projects/07_Computer_vision)
