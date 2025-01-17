@@ -13,4 +13,4 @@
    - Описанию хода работы.
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/10_Test_task/Task_1/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_1/Solution.ipynb)
