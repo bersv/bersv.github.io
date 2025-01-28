@@ -17,7 +17,8 @@
 <!--
 ### Education
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bersv) 
-### Work expirience-->
+### Work expirience
+-->
 
 ### Projects
 1. [SQL](https://github.com/bersv/bersv.github.io/tree/main/Projects/01_SQL)
@@ -106,7 +107,8 @@
 10. [Computer vision](Certificates/10_Computer_vision.pdf)
 11. [Natural language processing](Certificates/11_Natural_language_processing.pdf)
 12. [Data project management](Certificates/12_Data_project_management.pdf)
-13. [Data scientist](Certificates/13_Data_scientist.pdf)-->
+13. [Data scientist](Certificates/13_Data_scientist.pdf)
+-->
 
 <div>
   <a href="Certificates/14_DS_diploma.jpg">
