@@ -178,7 +178,7 @@
 ![Seaborn](Images/Seaborn.svg)
 
 
-
+<!--
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -195,7 +195,7 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=flat-square&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=flat-square&logo=Matplotlib&logoColor=white)
-
+-->
 
 <!--
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) 
