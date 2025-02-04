@@ -3,10 +3,10 @@
 #### How to reach me
 <p>
   <a href="http://berezovsky.stanislav@gmail.com"  title="Gmail">
-    <img src="Images/gmail-color.svg" width="20" height="20" alt="Gmail">
+    <img src="Images/Gmail.svg" width="20" height="20" alt="Gmail">
   </a>
   <a href="https://t.me/lavstany" title="Telegram">
-    <img src="Images/telegram-color.svg" width="20" height="20" alt="Telegram">
+    <img src="Images/Telegram.svg" width="20" height="20" alt="Telegram">
   </a>
   <a href="https://hh.ru/applicant/resumes/view?resume=571a9abfff0dbe6e190039ed1f6a65706b6573" title="HeadHunter">
     <img src="Images/HeadHunter.svg" width="20" height="20" alt="HeadHunter">
