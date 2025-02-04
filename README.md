@@ -176,7 +176,7 @@
 ![Colab](Images/Colab.svg)
 ![Matplotlib](Images/Matplotlib.svg)
 ![Seaborn](Images/Seaborn.svg)
-
+![PyCharm](Images/PyCharm.svg)
 
 <!--
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
@@ -198,7 +198,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
 -->
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
+
 
 <!--
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) 
