@@ -9,7 +9,7 @@
     <img src="Images/telegram-color.svg" width="20" height="20" alt="Telegram">
   </a>
   <a href="https://hh.ru/applicant/resumes/view?resume=571a9abfff0dbe6e190039ed1f6a65706b6573" title="HH">
-    <img src="Images/hh-color.png" width="20" height="20" alt="hh">
+    <img src="Images/hh-color.png" width="20" height="20" alt="HeadHunter">
   </a>
 </p>
 
