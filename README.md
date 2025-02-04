@@ -12,7 +12,7 @@
     <img src="Images/hh-color.png" width="20" height="20" alt="HeadHunter">
   </a>
   <a href="https://hh.ru/applicant/resumes/view?resume=571a9abfff0dbe6e190039ed1f6a65706b6573" title="HeadHunter">
-    <img src="Images/hh-color.png" width="20" height="20" alt="HeadHunter">
+    <img src="Images/HeadHunter.svg" width="20" height="20" alt="HeadHunter">
   </a>
 </p>
 
