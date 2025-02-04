@@ -161,6 +161,8 @@
 ### Skills
 
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![NumPy](Images/Numpy.svg)
+
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
