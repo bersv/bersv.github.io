@@ -16,6 +16,6 @@
 - country — содержит названия стран.
 
 ## DVD-Rental ER Diagram  
-![DVD-Rental ER Diagram](/Projects/SQL/Study_tasks/dvd_rental_er_diagram.png)
+![DVD-Rental ER Diagram](/Projects/01_SQL/Study_tasks/dvd_rental_er_diagram.png)
 
 На схеме звездочка (*) обозначает первичный ключ.
