@@ -39,4 +39,4 @@
 - bull_id: идентификатор подобранного быка
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_10/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/09_Test_tasks/Task_10/Solution.ipynb)
