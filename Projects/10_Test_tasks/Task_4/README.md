@@ -39,7 +39,5 @@ __Таблица штрафов, описание полей__
 |  |  |  |  |  |  |  |  |True|  |False|
 |  |  |  |  |  |  |  |  |False|  |True|
 
-
-
 ### Решение
 [Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_4/Solution.ipynb)
