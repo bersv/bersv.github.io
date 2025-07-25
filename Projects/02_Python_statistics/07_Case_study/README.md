@@ -1,4 +1,4 @@
-# Статистика. Практика
+# Статистика
 
 ### Задание 1
 Используя [набор данных о видеоиграх](https://github.com/obulygin/pyda_homeworks/blob/master/stat_case_study/vgsales.csv), ответьте на следующие вопросы:
