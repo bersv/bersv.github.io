@@ -1,7 +1,7 @@
 # Анализ NWOE и NIV для ATE
 
 ### Задание
-Оценить средний эффект воздействия (ATE) с помощью расчёта NWOE (Net Weight of Evidence) и NIV (Net Information Value) по признакам из A/B-тестов рекламной платформы Criteo.
+Оценить средний эффект воздействия (ATE) с помощью расчёта NWOE _(Net Weight of Evidence)_ и NIV _(Net Information Value)_ по признакам из A/B-тестов рекламной платформы Criteo.
 
 __Данные:__
 - Criteo Uplift Prediction (~13,9 млн записей, 11 анонимных признаков, treatment,visit/conversion).
