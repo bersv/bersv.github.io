@@ -12,4 +12,4 @@
    - Оформлению кода.
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_1/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_01/Solution.ipynb)
