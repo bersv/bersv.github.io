@@ -40,4 +40,4 @@ __Таблица штрафов, описание полей__
 |  |  |  |  |  |  |  |  |False|  |True|
 
 ### Решение
-[Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_4/Solution.ipynb)
+[Файл с кодом и пояснениями](/Projects/10_Test_tasks/Task_04/Solution.ipynb)
