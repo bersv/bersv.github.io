@@ -29,8 +29,7 @@
 6. [Recommendation systems](https://github.com/bersv/bersv.github.io/tree/main/Projects/06_Recommendation_systems)
 7. [Computer vision](https://github.com/bersv/bersv.github.io/tree/main/Projects/07_Computer_vision)
 8. [Natural language processing](https://github.com/bersv/bersv.github.io/tree/main/Projects/08_Natural_language_processing)
-9. [Automatic summarization of Russian news articles](https://github.com/bersv/bersv.github.io/tree/main/Projects/09_Graduate_work)
-10. [Test tasks](https://github.com/bersv/bersv.github.io/tree/main/Projects/10_Test_tasks)
+10. [Test tasks](https://github.com/bersv/bersv.github.io/tree/main/Projects/09_Test_tasks)
 
 ### Certificates
 <!--лндррггрпосоороrрдлнг
